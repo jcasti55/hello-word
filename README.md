@@ -1,2 +1,2 @@
 # hello-word
-Fist repository
+First repository
